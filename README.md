@@ -18,4 +18,4 @@ O conjunto de dados representa um conjunto de transações que aconteceram em um
 
 >Obs.: A carteira do investidor começou com 10 mil dólares.
 
-O desafio consiste em desenvolver um estudo utilizando Pandas e gráficos para apresentar uma análise para esse investidor.
+O desafio consiste em desenvolver um estudo utilizando Pandas para apresentar uma análise para esse investidor.
